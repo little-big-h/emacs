@@ -1,0 +1,5 @@
+(require 'helm)
+(require 'helm-config)
+(helm-mode 1)
+(recentf-mode 1)
+(load-theme 'solarized-dark t)
